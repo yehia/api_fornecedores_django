@@ -4,7 +4,7 @@
 # Ativação do ambiente virtual:
 	source venv/bin/activate
 
-# Instalação das bibliotecas
+# Instalação das bibliotecas:
     pip install -r requirements.txt
 
 # Executar migrações:
