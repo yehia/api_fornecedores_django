@@ -1,3 +1,5 @@
+# API REST com fluxo completo de registro e autenticação de usuários
+
 # Criação do ambiente virtual:
 	python -m venv venv
 	
